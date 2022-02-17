@@ -1,0 +1,12 @@
+.projectsWrapper {
+    margin-bottom: 45px;
+}
+
+.projectTitle {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.projectDetails{
+    margin-left: 20px;
+}

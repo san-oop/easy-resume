@@ -1,0 +1,12 @@
+.title h3 {
+	width: 100%; 
+	border-bottom: 1.5px solid #DCD4d4; 
+	line-height: 0.1em;
+	margin: 10px 0 20px; 
+ } 
+ 
+ .title h3 span { 
+	text-transform: capitalize;
+	 background:#fff; 
+	 padding-right:10px; 
+ }

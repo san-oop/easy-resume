@@ -1,0 +1,16 @@
+.roleContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.roleContainer p {
+    margin: 8px 0px;
+}
+
+.roleName {
+    font-weight: 600;
+}
+
+.companyName {
+    margin: 8px 0px;
+}
